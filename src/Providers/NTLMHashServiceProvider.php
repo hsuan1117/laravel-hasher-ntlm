@@ -6,7 +6,7 @@ use Hsuan\LaravelHasherNTLM\Hashing\NTLMHasher;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\ServiceProvider;
 
-class NTLMHashingServiceProvider extends ServiceProvider
+class NTLMHashServiceProvider extends ServiceProvider
 {
 
     /**
