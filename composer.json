@@ -1,5 +1,5 @@
 {
-    "name": "hsuan1117/laravel-hasher-ntlm",
+    "name": "hsuan/laravel-hasher-ntlm",
     "description": "NTLM Hash for Laravel",
     "type": "library",
     "license": "MIT",
